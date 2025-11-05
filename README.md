@@ -58,7 +58,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Phads&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Phads&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=10&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Phads&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=8&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="languages graph" />
 
 </div>
 
