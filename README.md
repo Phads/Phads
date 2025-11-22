@@ -61,10 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Phads&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=8&title_color=5CFF80&icon_color=5CFF80&text_color=FFFFFF&bg_color=2b2b2b&hide_border=false" height="160em" alt="languages graph" />
 
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phads/Phads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phads/Phads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Phads/Phads/output/github-contribution-grid-snake.svg">
-</picture>
